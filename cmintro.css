@@ -1,0 +1,72 @@
+.cmintro{
+    font-size: 60px;
+    color: lightsalmon;
+
+}
+
+.why{
+    color: rgb(252, 165, 5);
+    font-size: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    padding-top: 2px;
+}
+.btn2{
+    padding-left: 110px;
+}
+.text-success{
+    padding-left: 10px;
+}
+.p2{
+font-family:sans-serif;
+font-style: oblique;
+font-size: 28px;
+color: rgb(206, 175, 235);
+}
+.btn3{
+    padding-left: 50%;
+}
+.btn7{
+    padding-left: 50px;
+}
+.btn8{
+    padding-left: 50px;
+}
+.btn9{
+    padding-left: 50px;
+}
+.btn10{
+    padding-left: 50px;
+}
+.btn11{
+    padding-left: 50px;
+}
+.btn12{
+    padding-left: 50px;
+}
+.text-danger{
+    font-size: 80px;
+    padding-left: 32%;
+}
+.tech{
+    color: rgb(226, 9, 9);
+    font-size: 20px;
+    padding-left:10px ;
+}
+.link-light{
+    padding-left: 20px;
+}
+.linkscond{
+    padding-left: 10px;
+}
+.text-white{
+    padding-left: 10px;
+}
+.btn30{
+    padding-right: 10px ;
+    padding-left: 30%;
+}
+.h12{
+    padding-left: 40%;
+}
